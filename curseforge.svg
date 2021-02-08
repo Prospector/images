@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#151515;}
+	.st0{fill:currentColor;}
 </style>
 <path id="anvil" class="st0" d="M52.6,46.5l3.3,14H0c0.3,1.6,0.8,3.1,1.4,4.7c1.3,2.5,2.8,4.8,4.7,7c8.8,10.2,24.2,14.4,36.7,16.7
 	c8.8,1.6,17.6,2.6,26.5,2.8l10.2,27.4h5.6l3.3,8.8h-4.7l-7.9,25.6h77.7l-7.9-25.6h-4.7l3.3-8.8h5.6c0,0,4.7-28.4,19.1-41.4
